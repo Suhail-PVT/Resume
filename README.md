@@ -6,7 +6,7 @@ This repository hosts my latest professional resume in PDF format.
 It highlights my experience in .NET web development, API design, and freelance project delivery.
 
 ## 🔧 Skills
-- ASP.NET Core, C#, Entity Framework
+- ASP.NET, C#, Entity Framework
 - RESTful APIs, SQL Server
 - HTML, CSS, JavaScript
 - Freelance client work and project management
